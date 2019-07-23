@@ -99,17 +99,17 @@
 	   	</dependency>
 	   	
 	   	<!-- LCN分布式事务 -->
-		<dependency>
-		    <groupId>com.codingapi</groupId>
-		    <artifactId>transaction-springcloud</artifactId>
-		    <version>${lcn.last.version}</version>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 		    <groupId>com.codingapi</groupId> -->
+<!-- 		    <artifactId>transaction-springcloud</artifactId> -->
+<!-- 		    <version>${lcn.last.version}</version> -->
+<!-- 		</dependency> -->
 		
-		<dependency>
-		   <groupId>com.codingapi</groupId>
-		   <artifactId>tx-plugins-db</artifactId>
-		   <version>${lcn.last.version}</version>
-		</dependency>
+<!-- 		<dependency> -->
+<!-- 		   <groupId>com.codingapi</groupId> -->
+<!-- 		   <artifactId>tx-plugins-db</artifactId> -->
+<!-- 		   <version>${lcn.last.version}</version> -->
+<!-- 		</dependency> -->
 	</dependencies>
 
 	<dependencyManagement>
