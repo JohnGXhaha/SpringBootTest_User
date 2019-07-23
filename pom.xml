@@ -103,7 +103,7 @@
 <!-- 		    <groupId>com.codingapi</groupId> -->
 <!-- 		    <artifactId>transaction-springcloud</artifactId> -->
 <!-- 		    <version>${lcn.last.version}</version> -->
-<!-- 		</dependency> -->
+<!-- 		</dependency> --> 
 		
 <!-- 		<dependency> -->
 <!-- 		   <groupId>com.codingapi</groupId> -->
